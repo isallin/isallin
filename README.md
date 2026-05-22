@@ -1,10 +1,9 @@
 ## Hi! I'm Isabel Lin 👋
 
 ### About me
-Backend and data-focused developer, currently transitioning careers  
+💼 Data & AI internship at Indra/Minsait  
 🎓 Bachelor's degree in Marketing from EACH-USP  
-📚 Studying Systems Analysis and Development at SPTech  
-💼 Data & AI internship at Indra/Minsait
+📚 Systems Analysis and Development at SPTech  
 
 ### Technologies
 <img 
