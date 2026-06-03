@@ -1,7 +1,7 @@
 ## Hi! I'm Isabel Lin 👋
 
 ### About me
-💼 Data & AI internship at Indra/Minsait  
+💼 Data & AI at Indra/Minsait  
 🎓 Bachelor's degree in Marketing from EACH-USP  
 📚 Systems Analysis and Development at SPTech  
 
